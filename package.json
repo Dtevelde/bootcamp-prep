@@ -1,0 +1,12 @@
+{
+    "name": "bootcamp-prep-live",
+    "version": "1.0.0",
+    "description": "BCP exercises",
+    "main": "index.js",
+    "scripts": {
+      "test": "testem"
+    },
+    "dependencies": {
+        "testem": "^2.17.0"
+    }
+  }
