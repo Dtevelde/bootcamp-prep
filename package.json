@@ -7,6 +7,6 @@
       "test": "testem"
     },
     "dependencies": {
-        "testem": "^2.17.0"
+        "testem": "^3.6.0"
     }
   }
